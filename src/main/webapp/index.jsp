@@ -1,3 +1,4 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
 <head>
 <title>FORMULARIO JSP Tomcat </title>
@@ -32,7 +33,7 @@
     <br/>
     Me gusta el:
     <br/>
-    <input type="Radio" name="preferencia" value= "Diseño"checked>Diseno
+    <input type="Radio" name="preferencia" value= "Diseño"checked>Diseño
     <br/>
     <input type="Radio" name= "preferencia"value="Programacion">Programacion
     <br/>
