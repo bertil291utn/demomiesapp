@@ -1,13 +1,13 @@
 <html>
 <head>
-<title>HOLA FORMULARIOS</title>
+<title>FORMULARIO JSP Tomcat </title>
 <style type="text/css" media="screen">
       /*la directiva include copia el contenido de un archivo y lo incrusta en la pagina*/
     
 </style>
 </head>
 <body>
- 
+ <h4>CISIC Autor BT </h4>
 <form action="proceso.jsp" method="post">
     Nombre:
     <input type="text" name="nombre">
@@ -32,7 +32,7 @@
     <br/>
     Me gusta el:
     <br/>
-    <input type="Radio" name="preferencia" value= "Diseño"checked>Diseño
+    <input type="Radio" name="preferencia" value= "Diseño"checked>Diseno
     <br/>
     <input type="Radio" name= "preferencia"value="Programacion">Programacion
     <br/>
