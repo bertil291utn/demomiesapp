@@ -3,7 +3,7 @@
 <title>HOLA FORMULARIOS</title>
 <style type="text/css" media="screen">
       /*la directiva include copia el contenido de un archivo y lo incrusta en la pagina*/
-     <%@ include file="estilo.css" %>
+    
 </style>
 </head>
 <body>
